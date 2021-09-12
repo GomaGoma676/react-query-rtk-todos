@@ -22,7 +22,7 @@ https://tailwindcss.com/docs/guides/create-react-app
   }
 ~~~
 ### 1-5.  craco.configの作成
-    craco.config.js
+    touch craco.config.js
 ~~~
 module.exports = {
   style: {
