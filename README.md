@@ -58,7 +58,7 @@ module.exports = {
 @tailwind utilities;
 ~~~
 ### 1-9. react-query axios react-router-dom heroicons のインストール
-    yarn add react-query react-query-devtools react-router-dom @types/react-router-dom axios@0.21.1 @heroicons/react
+    yarn add react-query react-query-devtools react-router-dom @types/react-router-dom axios@0.21.1 @heroicons/react@1.0.6
 ### 1-10.  prettierの設定 : settingsでRequire Config + Format On Saveにチェック
     touch .prettierrc
 ~~~
